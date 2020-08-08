@@ -1,0 +1,64 @@
+c:\users\samrat dhumal\documents\visual studio 2010\Projects\MainPage\MainPage\bin\Debug\MainPage.exe
+c:\users\samrat dhumal\documents\visual studio 2010\Projects\MainPage\MainPage\bin\Debug\MainPage.pdb
+c:\users\samrat dhumal\documents\visual studio 2010\Projects\MainPage\MainPage\obj\x86\Debug\MainPage.SplashScreen.resources
+c:\users\samrat dhumal\documents\visual studio 2010\Projects\MainPage\MainPage\obj\x86\Debug\MainPage.Properties.Resources.resources
+c:\users\samrat dhumal\documents\visual studio 2010\Projects\MainPage\MainPage\obj\x86\Debug\MainPage.csproj.GenerateResource.Cache
+c:\users\samrat dhumal\documents\visual studio 2010\Projects\MainPage\MainPage\obj\x86\Debug\MainPage.exe
+c:\users\samrat dhumal\documents\visual studio 2010\Projects\MainPage\MainPage\obj\x86\Debug\MainPage.pdb
+c:\users\samrat dhumal\documents\visual studio 2010\Projects\MainPage\MainPage\obj\x86\Debug\MainPage.Login.resources
+c:\users\samrat dhumal\documents\visual studio 2010\Projects\MainPage\MainPage\obj\x86\Debug\MainPage.ForgotPassword.resources
+C:\Users\SAMRAT DHUMAL\documents\visual studio 2010\Projects\MainPage\MainPage\obj\x86\Debug\MainPage.csprojResolveAssemblyReference.cache
+H:\MainPage\MainPage\obj\x86\Debug\MainPage.exe
+H:\MainPage\MainPage\obj\x86\Debug\MainPage.pdb
+H:\MainPage\MainPage\bin\Debug\MainPage.exe
+H:\MainPage\MainPage\bin\Debug\MainPage.pdb
+H:\MainPage\MainPage\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\MainPage\MainPage\obj\x86\Debug\MainPage.ForgotPassword.resources
+H:\MainPage\MainPage\obj\x86\Debug\MainPage.Login.resources
+H:\MainPage\MainPage\obj\x86\Debug\MainPage.SplashScreen.resources
+H:\MainPage\MainPage\obj\x86\Debug\MainPage.Properties.Resources.resources
+H:\MainPage\MainPage\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\MainPage\MainPage\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\1204042\MainPage\MainPage\obj\x86\Debug\MainPage.exe
+E:\1204042\MainPage\MainPage\obj\x86\Debug\MainPage.pdb
+E:\1204042\MainPage\MainPage\bin\Debug\MainPage.exe
+E:\1204042\MainPage\MainPage\bin\Debug\MainPage.pdb
+E:\1204042\MainPage\MainPage\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\1204042\MainPage\MainPage\obj\x86\Debug\MainPage.ForgotPassword.resources
+E:\1204042\MainPage\MainPage\obj\x86\Debug\MainPage.Login.resources
+E:\1204042\MainPage\MainPage\obj\x86\Debug\MainPage.SplashScreen.resources
+E:\1204042\MainPage\MainPage\obj\x86\Debug\MainPage.Properties.Resources.resources
+E:\1204042\MainPage\MainPage\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\1204042\MainPage\MainPage\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\1204042\MainPage\MainPage\obj\x86\Debug\MainPage.Admin.resources
+E:\1204042\MainPage\MainPage\obj\x86\Debug\MainPage.AddUser.resources
+E:\1204042\MainPage\MainPage\obj\x86\Debug\MainPage.Staticlog.resources
+C:\Users\SAMRAT DHUMAL\Desktop\Final-Project-4-12-15\MainPage\MainPage\obj\x86\Debug\MainPage.exe
+C:\Users\SAMRAT DHUMAL\Desktop\Final-Project-4-12-15\MainPage\MainPage\obj\x86\Debug\MainPage.pdb
+C:\Users\SAMRAT DHUMAL\Desktop\Final-Project-4-12-15\MainPage\MainPage\bin\Debug\MainPage.exe
+C:\Users\SAMRAT DHUMAL\Desktop\Final-Project-4-12-15\MainPage\MainPage\bin\Debug\MainPage.pdb
+C:\Users\SAMRAT DHUMAL\Desktop\Final-Project-4-12-15\MainPage\MainPage\obj\x86\Debug\MainPage.csprojResolveAssemblyReference.cache
+C:\Users\SAMRAT DHUMAL\Desktop\Final-Project-4-12-15\MainPage\MainPage\obj\x86\Debug\MainPage.AddUser.resources
+C:\Users\SAMRAT DHUMAL\Desktop\Final-Project-4-12-15\MainPage\MainPage\obj\x86\Debug\MainPage.Admin.resources
+C:\Users\SAMRAT DHUMAL\Desktop\Final-Project-4-12-15\MainPage\MainPage\obj\x86\Debug\MainPage.ForgotPassword.resources
+C:\Users\SAMRAT DHUMAL\Desktop\Final-Project-4-12-15\MainPage\MainPage\obj\x86\Debug\MainPage.Login.resources
+C:\Users\SAMRAT DHUMAL\Desktop\Final-Project-4-12-15\MainPage\MainPage\obj\x86\Debug\MainPage.SplashScreen.resources
+C:\Users\SAMRAT DHUMAL\Desktop\Final-Project-4-12-15\MainPage\MainPage\obj\x86\Debug\MainPage.Properties.Resources.resources
+C:\Users\SAMRAT DHUMAL\Desktop\Final-Project-4-12-15\MainPage\MainPage\obj\x86\Debug\MainPage.Staticlog.resources
+C:\Users\SAMRAT DHUMAL\Desktop\Final-Project-4-12-15\MainPage\MainPage\obj\x86\Debug\MainPage.csproj.GenerateResource.Cache
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\MainPage\MainPage\obj\x86\Debug\MainPage.exe
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\MainPage\MainPage\obj\x86\Debug\MainPage.pdb
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\MainPage\MainPage\bin\Debug\MainPage.exe
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\MainPage\MainPage\bin\Debug\MainPage.pdb
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\MainPage\MainPage\obj\x86\Debug\MainPage.csprojResolveAssemblyReference.cache
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\MainPage\MainPage\obj\x86\Debug\MainPage.AddUser.resources
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\MainPage\MainPage\obj\x86\Debug\MainPage.Admin.resources
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\MainPage\MainPage\obj\x86\Debug\MainPage.ForgotPassword.resources
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\MainPage\MainPage\obj\x86\Debug\MainPage.Login.resources
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\MainPage\MainPage\obj\x86\Debug\MainPage.SplashScreen.resources
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\MainPage\MainPage\obj\x86\Debug\MainPage.Properties.Resources.resources
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\MainPage\MainPage\obj\x86\Debug\MainPage.Staticlog.resources
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\MainPage\MainPage\obj\x86\Debug\MainPage.csproj.GenerateResource.Cache
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\MainPage\MainPage\bin\Debug\KMeansClustering.dll
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\MainPage\MainPage\bin\Debug\ServerSide.pdb
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\MainPage\MainPage\bin\Debug\KMeansClustering.pdb

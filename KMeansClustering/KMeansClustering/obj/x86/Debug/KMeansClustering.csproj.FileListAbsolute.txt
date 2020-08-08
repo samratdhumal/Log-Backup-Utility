@@ -1,0 +1,39 @@
+C:\Users\User\Desktop\aa\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.exe
+C:\Users\User\Desktop\aa\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.pdb
+C:\Users\User\Desktop\aa\KMeansClustering\KMeansClustering\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\aa\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.Properties.Resources.resources
+C:\Users\User\Desktop\aa\KMeansClustering\KMeansClustering\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\User\Desktop\aa\KMeansClustering\KMeansClustering\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\User\Desktop\aa\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.exe
+C:\Users\User\Desktop\aa\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.pdb
+C:\Users\User\Desktop\aa\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.Form1.resources
+C:\Users\User\Desktop\aa\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.csproj.ResolveComReference.cache
+L:\Pavan_KMeans\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.csproj.ResolveComReference.cache
+L:\Pavan_KMeans\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.exe
+L:\Pavan_KMeans\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.pdb
+L:\Pavan_KMeans\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.exe
+L:\Pavan_KMeans\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.pdb
+L:\Pavan_KMeans\KMeansClustering\KMeansClustering\obj\x86\Debug\ResolveAssemblyReference.cache
+L:\Pavan_KMeans\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.Form1.resources
+L:\Pavan_KMeans\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.Properties.Resources.resources
+L:\Pavan_KMeans\KMeansClustering\KMeansClustering\obj\x86\Debug\GenerateResource.read.1.tlog
+L:\Pavan_KMeans\KMeansClustering\KMeansClustering\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\LogBackupUtility\Pavan_KMeans\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.csproj.ResolveComReference.cache
+E:\LogBackupUtility\Pavan_KMeans\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.exe
+E:\LogBackupUtility\Pavan_KMeans\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.pdb
+E:\LogBackupUtility\Pavan_KMeans\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.exe
+E:\LogBackupUtility\Pavan_KMeans\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.pdb
+E:\LogBackupUtility\Pavan_KMeans\KMeansClustering\KMeansClustering\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\LogBackupUtility\Pavan_KMeans\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.Form1.resources
+E:\LogBackupUtility\Pavan_KMeans\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.Properties.Resources.resources
+E:\LogBackupUtility\Pavan_KMeans\KMeansClustering\KMeansClustering\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\LogBackupUtility\Pavan_KMeans\KMeansClustering\KMeansClustering\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.csproj.ResolveComReference.cache
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.exe
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.pdb
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.exe
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\KMeansClustering\KMeansClustering\bin\Debug\KMeansClustering.pdb
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.csprojResolveAssemblyReference.cache
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.Form1.resources
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.Properties.Resources.resources
+F:\B.Tech(I.T.)\Sem-1\MP\Final Project phase-1\Coding Phase-1\KMeansClustering\KMeansClustering\obj\x86\Debug\KMeansClustering.csproj.GenerateResource.Cache

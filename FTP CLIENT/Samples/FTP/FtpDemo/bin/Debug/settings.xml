@@ -1,0 +1,23 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:SetSav id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GenericSaveForm/GenericSaveForm%2C%20Version%3D1.0.2693.42696%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<WinPosX>50</WinPosX>
+<WinPosY>50</WinPosY>
+<WinWidth>1382</WinWidth>
+<WinHeight>744</WinHeight>
+<ExternObj href="#ref-4"/>
+<ChildObjectRef href="#ref-1"/>
+<BaseSerializable_x002B_ChildObjectRef href="#ref-1"/>
+</a1:SetSav>
+<a2:FtpSettings id="ref-4" xmlns:a2="http://schemas.microsoft.com/clr/nsassem/FtpDemo/FtpDemo%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ServerIP id="ref-5">127.0.0.1</ServerIP>
+<LocalFolder id="ref-6">C:\Users\Immortal\Desktop</LocalFolder>
+<Port>21</Port>
+<Binary>true</Binary>
+<Passive>false</Passive>
+<UserID id="ref-7">Akshay</UserID>
+<Password id="ref-8">akshay44</Password>
+<LocalFile id="ref-9"></LocalFile>
+</a2:FtpSettings>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
