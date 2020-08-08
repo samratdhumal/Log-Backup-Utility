@@ -1,0 +1,14 @@
+C:\Users\phoenix\Desktop\Smoothy_Source\SmoothyInterface\bin\Debug\SmoothyInterface.exe
+C:\Users\phoenix\Desktop\Smoothy_Source\SmoothyInterface\bin\Debug\SmoothyInterface.exe.config
+C:\Users\phoenix\Desktop\Smoothy_Source\SmoothyInterface\bin\Debug\BusyBarLib.dll
+C:\Users\phoenix\Desktop\Smoothy_Source\SmoothyInterface\obj\Debug\SmoothyInterface.Forms.ConnectToComputer.resources
+C:\Users\phoenix\Desktop\Smoothy_Source\SmoothyInterface\obj\Debug\SmoothyInterface.Forms.EventLogViewer.resources
+C:\Users\phoenix\Desktop\Smoothy_Source\SmoothyInterface\obj\Debug\SmoothyInterface.MainWindow.resources
+C:\Users\phoenix\Desktop\Smoothy_Source\SmoothyInterface\obj\Debug\SmoothyInterface.Forms.NewEventLog.resources
+C:\Users\phoenix\Desktop\Smoothy_Source\SmoothyInterface\obj\Debug\SmoothyInterface.Forms.Progress.resources
+C:\Users\phoenix\Desktop\Smoothy_Source\SmoothyInterface\obj\Debug\SmoothyInterface.Forms.UnhandledException.resources
+C:\Users\phoenix\Desktop\Smoothy_Source\SmoothyInterface\obj\Debug\SmoothyInterface.Properties.Resources.resources
+C:\Users\phoenix\Desktop\Smoothy_Source\SmoothyInterface\obj\Debug\SmoothyInterface.csproj.GenerateResource.Cache
+C:\Users\phoenix\Desktop\Smoothy_Source\SmoothyInterface\obj\Debug\SmoothyInterface.exe
+C:\Users\phoenix\Desktop\Smoothy_Source\SmoothyInterface\obj\Debug\SmoothyInterface.pdb
+C:\Users\phoenix\Desktop\Smoothy_Source\SmoothyInterface\bin\Debug\SmoothyInterface.pdb

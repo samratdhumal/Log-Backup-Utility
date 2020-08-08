@@ -1,0 +1,4 @@
+C:\Users\phoenix\Desktop\Smoothy_Source\TestEventLogTypes\bin\Debug\TestEventLogTypes.exe
+C:\Users\phoenix\Desktop\Smoothy_Source\TestEventLogTypes\bin\Debug\TestEventLogTypes.pdb
+C:\Users\phoenix\Desktop\Smoothy_Source\TestEventLogTypes\obj\Debug\TestEventLogTypes.exe
+C:\Users\phoenix\Desktop\Smoothy_Source\TestEventLogTypes\obj\Debug\TestEventLogTypes.pdb
